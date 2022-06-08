@@ -1,0 +1,19 @@
+{
+  "environments": [
+     {
+      "name": "[EntryName]",
+      "description": "[Entry Description]",
+      "endpoints": {
+        "identity": "[Identity Service URL]",
+        "transaction": "[Transaction Service URL]"
+      },
+      "realm": "[RealmName]",
+      "outlets": [
+        {
+          "reference": "[OutletReference]",
+          "apikey": "[API-Key]"
+        }
+      ]
+    }
+	]
+}
